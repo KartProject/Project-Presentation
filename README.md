@@ -15,3 +15,5 @@ Les 2 acteurs du produit fini sont le pilote et le technicien. Le technicien aur
 Le pilote devra lui s'asseoir dans le karting afin que le technicien puisse prélevé les informations qui prendront en compte les caractéristiques physique du pilote.
 
 Pour ce model les caractéristiques du pilotes seront rentrés par le technicien dans une boîte de dialogues du le logiciel qui traite les informations.
+
+zefrhgzsdfgzdsfgsrgff
