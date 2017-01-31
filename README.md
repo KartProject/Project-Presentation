@@ -26,10 +26,7 @@ Présentation parties individuelles :
           
   - Contributor 3 :
 		- Détermnier avec les autre candidats les valeurs à prendre en compte dans la BDD et qui seront utiles aux clients.
-
 		- Construire et mettre en place la BDD, intégrer des valeurs "par défaut". 
-          
 		- Créer et coder une interface permettant l'archivage des mesures effectuées(de voir et retrouver les mesures faites pendants les tests).
-
 		- Intégrer cela à l'ensemble du projet.
 
