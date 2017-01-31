@@ -25,4 +25,4 @@ Présentation parties individuelles :
           /TODO/
           
   - Contributor 3 :
-          /TODO/
+          /TODO/1
