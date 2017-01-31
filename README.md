@@ -7,6 +7,7 @@ Members :
   - ExoStuf(Nicolas Sarrazin) : Contributor 3
 
 Description (FR) :
+
 Le projet consiste a créer un banc de test pour tester les performances moteur (couple, courant, tension et autonomie batteries) d'un Karting en fonction du pilote.
 
 Les 2 acteurs du produit fini sont le pilote et le technicien. Le technicien aura accès aux informations des performances du moteur et pourra programmer le moteur afin de tester une configuration de celui-ci avec le pilote se trouvant dans le karting.
