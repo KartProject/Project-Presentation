@@ -19,19 +19,17 @@ Pour ce model les caractéristiques du pilotes seront rentrés par le technicien
 Présentation parties individuelles :
 
   - Contributor 1 :
-          /TODO/
+		Le rôle du candidat 1 est de créer une interface pour le technicien. Il pourra indiquer des valeurs à envoyer à l'automate ou en recevoir de celui-ci. Le technicien aura aussi la possibilité de stocker les valeurs dans une base de donnée mais il pourra aussi lire des valeurs de celle-ci.
   
   - Contributor 2 :
-  
-        Le rôle du candidat 2 est de gérer les communications entre la base de donnée , le client et le serveur Modbus ,le tout relié a l'automate , et qui prendra en compte divers paramètre (la pente de la route , poids du pilote etc ...).
+		Le rôle du candidat 2 est de gérer les communications entre la base de donnée , le client et le serveur Modbus ,le tout relié a l'automate , et qui prendra en compte divers paramètre (la pente de la route , poids du pilote etc ...).
           
   - Contributor 3 :
-  
-          - Détermnier avec les autre candidats les valeurs à prendre en compte dans la BDD et qui seront utiles aux clients.
+		- Détermnier avec les autre candidats les valeurs à prendre en compte dans la BDD et qui seront utiles aux clients.
 
-          - Construire et mettre en place la BDD, intégrer des valeurs "par défaut". 
+		- Construire et mettre en place la BDD, intégrer des valeurs "par défaut". 
           
-          - Créer et coder une interface permettant l'archivage des mesures effectuées(de voir et retrouver les mesures faites pendants les tests).
+		- Créer et coder une interface permettant l'archivage des mesures effectuées(de voir et retrouver les mesures faites pendants les tests).
 
-          - Intégrer cela à l'ensemble du projet.
+		- Intégrer cela à l'ensemble du projet.
 
