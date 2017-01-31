@@ -16,4 +16,13 @@ Le pilote devra lui s'asseoir dans le karting afin que le technicien puisse pré
 
 Pour ce model les caractéristiques du pilotes seront rentrés par le technicien dans une boîte de dialogues du le logiciel qui traite les informations.
 
-zefrhgzsdfgzdsfgsrgff
+Présentation parties individuelles :
+
+  - Contributor 1 :
+          /TODO/
+  
+  - Contributor 2 :
+          /TODO/
+          
+  - Contributor 3 :
+          /TODO/
