@@ -1,5 +1,4 @@
 # Project-Presentation
-theme: jekyll-theme-hacker
 Description of the members task.
 
 Members :
