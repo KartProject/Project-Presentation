@@ -22,7 +22,7 @@ Présentation parties individuelles :
           /TODO/
   
   - Contributor 2 :
-        le role du candidat 2 est de gérer les communications entre la base de donnée , le client et le serveur Modbus ,le tout relié a l'automate , et qui prendra en compte divers paramètre (la pente de la route , poids du pilote etc ...).
+        Le role du candidat 2 est de gérer les communications entre la base de donnée , le client et le serveur Modbus ,le tout relié a l'automate , et qui prendra en compte divers paramètre (la pente de la route , poids du pilote etc ...).
           
   - Contributor 3 :
           /TODO/
