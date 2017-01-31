@@ -25,5 +25,9 @@ Présentation parties individuelles :
         Le rôle du candidat 2 est de gérer les communications entre la base de donnée , le client et le serveur Modbus ,le tout relié a l'automate , et qui prendra en compte divers paramètre (la pente de la route , poids du pilote etc ...).
           
   - Contributor 3 :
-          /TODO/
+          - Détermnier avec les autre candidats les valeurs à prendre en compte dans la BDD et qui seront utiles aux clients.
+
+          - Construire et mettre en place la BDD, intégrer des valeurs "par défaut". Créer et coder une interface permettant    l'archivage des mesures effectuées(de voir et retrouver les mesures faites pendants les tests).
+
+          - Intégrer cela à l'ensemble du projet.
 
