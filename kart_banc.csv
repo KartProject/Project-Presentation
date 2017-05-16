@@ -1,0 +1,15 @@
+HOST;192.168.20.220
+PORT;5000
+
+INFO;Kart Banc Test
+# holding registers
+40001 ;2 ;FFFF; vit_kart		; vitesse kart (km/h)			;Float; 888
+40003 ;2 ;FFFF; couple_simu		; couple simulateur (N.m)		;Float; 0
+40005 ;2 ;FFFF; vit_simu		; vitesse moteur (tr/min)		;Float; 0
+40007 ;2 ;FFFF; couple_kart		; couple kart (N.m)				;Float; 0
+40009 ;2 ;FFFF; puiss_kart		; puissance mécanique kart (W)	;Float; 0
+
+40011 ;2 ;FFFF; local_dist		; prise en main local = 1 - distant = 0	;Float; 0
+40013 ;2 ;FFFF; masse_pilot		; masse du pilote (kg)					;Float; 0
+40015 ;2 ;FFFF; cons_couple		; consigne de couple simulateur (N.m)	;Float; 0
+40017 ;2 ;FFFF; cons_pente		; consigne de pente piste (%)			;Float; 0
